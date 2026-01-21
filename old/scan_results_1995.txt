@@ -1,0 +1,12 @@
+# old nmap output from initial recon
+# keeping for reference
+
+Nmap scan report for ellingson-mineral.co
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+7734/tcp filtered unknown
+
+# 7734 = "HELL" upside down on calculator
+# gibson reference?

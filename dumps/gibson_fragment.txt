@@ -1,0 +1,14 @@
+GIBSON MEMORY DUMP - PARTIAL RECOVERY
+=====================================
+Offset: 0x00047A00 - 0x00047FFF
+Recovery: 34%
+Note: data appears to be offset-encoded 
+
+00047A00: 666c 6171 9b87 5182 937f 508e 7f86 5192  flaQ....Q...Q...
+00047A10: 5394 7f8d 5393 9354 8753 9d20 2020 2020  S...S..T.S......
+00047A20: #### CORRUPTED ####
+00047A30: #### CORRUPTED ####
+00047A40: 9385 8392 8594 7f8b 8599 5d20 2020 2020  ..........].....
+00047A50: #### CORRUPTED ####
+
+[END OF RECOVERABLE DATA]

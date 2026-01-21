@@ -1,0 +1,15 @@
+# partial user dump from gibson
+# some of these might still work?
+
+zero.cool
+acid.burn
+cereal.killer
+phantom.phreak
+lord.nikon
+crash.override
+
+# system accounts
+root
+admin
+gibson
+davinci.svc

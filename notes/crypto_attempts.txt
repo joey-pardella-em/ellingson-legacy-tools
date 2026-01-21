@@ -1,0 +1,9 @@
+DECRYPTION ATTEMPTS
+===================
+
+tried various things on the creds i found
+still stuck on some encrypted configs
+need more samples
+
+- 52656d656d62657220...
+- U0ZOQXN0...

@@ -1,0 +1,6 @@
+[ ] finish mapping internal network
+[ ] crack admin portal creds
+[ ] find gibson access
+[ ] check paste for more dumps
+[x] grab backup configs
+[x] enumerate subdomains

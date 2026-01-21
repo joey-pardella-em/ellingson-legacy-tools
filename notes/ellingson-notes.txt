@@ -1,0 +1,18 @@
+ellingson recon notes
+=====================
+
+found their dev server through cert transparency logs
+dev.ellingson-mineral.co - nginx, php backend
+
+backup directory was wide open lol
+/backup/config.bak - had some encoded creds
+/backup/notes.txt - mentioned some internal github stuff
+
+their dns has some interesting txt records too
+might be worth looking at later
+
+admin portal at admin.ellingson-mineral.co
+haven't cracked it yet but working on it
+
+need to find more about their internal network
+gibson is supposedly the main target

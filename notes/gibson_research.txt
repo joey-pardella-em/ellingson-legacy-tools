@@ -1,0 +1,20 @@
+THE GIBSON
+==========
+
+from what i can tell:
+- main ellingson mainframe
+- controls tanker fleet ballast systems
+- heavily protected (obviously)
+- runs some custom OS
+- port 7734 is interesting
+- auth requires "protocol 7" whatever that is
+
+plague definitely had access
+how did he get in?
+must be an insider thing
+
+da vinci virus was loaded through gibson
+modified ballast configs for oil tankers
+would have caused capsizing if not caught
+
+need to find protocol 7 documentation

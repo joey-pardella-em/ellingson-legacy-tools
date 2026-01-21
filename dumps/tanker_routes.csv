@@ -1,0 +1,7 @@
+vessel_id,route,cargo_tons,ballast_status
+EM-001,VALDEZ-LA,1200000,AUTO
+EM-002,HOUSTON-ROTTERDAM,890000,AUTO
+EM-003,SINGAPORE-SF,1500000,MANUAL
+EM-004,PRUDHOE-TOKYO,980000,AUTO
+# ballast systems compromised 1995-09-14
+# see incident report EM-SEC-1995-0042
